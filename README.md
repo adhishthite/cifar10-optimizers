@@ -11,4 +11,12 @@ Choosing the right optimizer while working on a Deep Learning project is very im
 - Keras (Tensorflow backend)
 - CIFAR-10 dataset
 
-![CNN Model Structure](/images/model.png?raw=true "Title")
+<p align="center">
+	<img src='/images/model.png/' alt='CNN Model'>
+</p>
+
+## Accuracy
+
+<p align="center">
+	<img src='/images/Combined-Accuracy.jpg/' alt='Accuracy'>
+</p>
